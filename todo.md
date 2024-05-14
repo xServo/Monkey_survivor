@@ -12,3 +12,4 @@
 - [docs on culling](https://pixijs.com/8.x/guides/basics/scene-graph#culling)
 
 - [pixel art site](https://perchance.org/ai-pixel-art-generator)
+- also used easy diffusion
